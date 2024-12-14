@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fernandotech.space)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-henrique-almeida-machado/)
 
-![FernandoTechSpace GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoTechSpace&show_icons=true&theme=dracula&count_private=true)
+![FernandoTechSpace GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoTechSpace&show_icons=true&theme=dark&count_private=true)
 
 ### Tecnologias que estudo e uso no meu dia
 <div style="display: inline_block">
