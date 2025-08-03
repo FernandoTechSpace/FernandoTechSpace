@@ -1,4 +1,4 @@
-### Profissional de TI e entusiasta, atuo como Analista de Infraestrutura, SysAdmin e DevOps. 😎
+### Profissional e entusiasta de TI, atuo como Analista de Infraestrutura, SysAdmin e DevOps. 😎
 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fernandotech.space.oficial)
