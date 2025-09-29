@@ -1,4 +1,4 @@
-### Profissional e entusiasta de TI, atuo como Analista de Infraestrutura, SysAdmin e DevOps. 😎
+### Profissional e entusiasta de TI, atuo como SysAdmin, SRE e DevOps. 😎
 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fernandotech.space.oficial)
@@ -20,4 +20,7 @@
   <img align="center" alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white" />
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img align="center" alt="Terraform Module Downloads" src="https://img.shields.io/terraform/module/:interval/:namespace/:name/:provider"/>
+ />
+  
 </div><br/>
