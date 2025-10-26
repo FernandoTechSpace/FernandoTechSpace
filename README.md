@@ -1,4 +1,6 @@
-### Profissional e entusiasta de TI, atuo como SysAdmin, SRE e DevOps. 😎
+### Profissional e entusiasta de TI, atuo como SysAdmin, DevOps e SRE. 😎
+### Gosto da ideia de criar rápido, errar rápido, corrigir rápido e seguir inovando, assim continuo evoluindo e contribuindo para o négocio.
+### Sou fundador do canal @fernandotech.space.oficial, onde compartilho conhecimento e contribuo com a comunidade tech.
 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fernandotech.space.oficial)
