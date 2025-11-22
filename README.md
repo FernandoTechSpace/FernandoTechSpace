@@ -1,5 +1,7 @@
-### Profissional e entusiasta de TI, atuo como SysAdmin, DevOps e SRE. 😎
-### Gosto da ideia de criar rápido, errar rápido, corrigir rápido e seguir inovando, assim continuo evoluindo e contribuindo para o négocio.
+### Profissional e entusiasta de TI, atuo como DevOps, SRE e SysAdmin 😎
+
+### Esse é meu site portifolio que criei para mostrar minha experiência e conhecimnento. https://www.fernandotechspace.com.br/
+
 ### Sou fundador do canal @fernandotech.space.oficial, onde compartilho conhecimento e contribuo com a comunidade tech.
 
 
