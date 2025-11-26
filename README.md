@@ -1,6 +1,6 @@
 ### Profissional e entusiasta de TI, atuo como DevOps, SRE e SysAdmin 😎
 
-### Esse é meu site portifolio que criei para mostrar minha experiência e conhecimento. https://www.fernandotechspace.com.br/
+### Esse é meu site portfolio que criei para mostrar minha experiência e conhecimento. https://www.fernandotechspace.com.br/
 
 ### Sou fundador do canal @fernandotech.space.oficial, onde compartilho conhecimento e contribuo com a comunidade tech.
 
