@@ -11,7 +11,7 @@
 
 ![FernandoTechSpace GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoTechSpace&show_icons=true&theme=dark&count_private=true)
 
-### Tecnologias que estudo e uso no meu dia
+### Tecnologias que uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center" alt='Windows' src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' />
