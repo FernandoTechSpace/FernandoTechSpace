@@ -5,9 +5,9 @@
 ### Sou fundador do canal @fernandotech.space.oficial, onde compartilho conhecimento e contribuo com a comunidade tech.
 
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fernandotech.space.oficial)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fernandotech.space)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-henrique-almeida-machado/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fernandotech.space.oficial)
+
 
 ![FernandoTechSpace GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoTechSpace&show_icons=true&theme=dark&count_private=true)
 
