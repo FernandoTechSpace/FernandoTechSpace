@@ -1,8 +1,8 @@
-### Profissional e entusiasta de TI, atuo como DevOps, SRE e SysAdmin 😎
+### Sou profissional e entusiasta de TI, com expertise em sistemas Linux e provedores Cloud, atuando como Analista de Infraestrutura foco em Cloud, DevOps | SRE, entregando automação, confiabilidade e alta disponibilidade em ambientes críticos. 😎
 
 ### Esse é meu site portfolio que criei para mostrar minha experiência e conhecimento. https://www.fernandotechspace.com.br/
 
-### Sou fundador do canal @fernandotech.space.oficial, onde compartilho conhecimento e contribuo com a comunidade tech.
+### Sou fundador do canal @fernandotech.space.oficial, onde vou compartilhar conhecimento e contribuir com a comunidade tech.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-henrique-almeida-machado/)
