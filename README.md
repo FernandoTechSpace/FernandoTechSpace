@@ -2,7 +2,7 @@
 
 ### Esse é meu site portfolio que criei para mostrar minha experiência e conhecimento. https://www.fernandotechspace.com.br/
 
-### Sou fundador do canal @fernandotech.space.oficial, onde compartilhO conhecimento e contribuO com a comunidade da TI.
+### Sou fundador do canal @fernandotech.space.oficial, onde compartilho conhecimento e contribuo com a comunidade tec.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-henrique-almeida-machado/)
@@ -29,7 +29,6 @@
   <img align="center" alt="Grafana" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img align="center" alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img align="center" alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 
   
 </div><br/>
