@@ -1,4 +1,4 @@
-### Sou profissional e entusiasta de TI, com expertise em sistemas Linux e provedores Cloud, atuando como Analista de Infraestrutura com foco em Cloud, DevOps | SRE, entregando automação, confiabilidade e alta disponibilidade em ambientes críticos. 😎
+### Sou profissional e entusiasta de TI, com expertise em sistemas Linux e Cloud, atuando como Analista de Infraestrutura com foco em Cloud, DevOps | SRE, entregando automação, confiabilidade e alta disponibilidade em ambientes críticos. 😎
 
 ### Esse é meu site portfolio que criei para mostrar minha experiência e conhecimento. https://www.fernandotechspace.com.br/
 
