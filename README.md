@@ -2,7 +2,7 @@
 
 ### Esse é meu site portfolio que criei para mostrar minha experiência e conhecimento. https://www.fernandotechspace.com.br/
 
-### Sou fundador do canal @fernandotech.space.oficial, onde compartilho conhecimento e contribuo com a comunidade tec.
+### Sou fundador do canal @fernandotech.space.oficial, onde compartilho conhecimento e contribuo com a comunidade tech.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-henrique-almeida-machado/)
