@@ -1,8 +1,6 @@
 
 
-### Sou profissional e entusiasta de TI. Analista de Infraestrutura e Suporte SRE com experiência em administração de sistemas Linux e Windows Server, em ambientes híbridos (On-Premises e Multi-Cloud: AWS e Azure). 
-### Automação (IaC), pipelines CI/CD, scripts, API, orquestração de contêineres, observabilidade, redução de toil operacional, otimização de custos e recursos.​
-### Gestão de incidentes, troubleshooting, triagem de erros sistêmicos e análise de logs para (RCA) visando minimizar reincidentes e impactos na operação e negócio. 
+### Sou profissional e entusiasta de TI.
 
 ### Esse é meu site/ blog que criei para mostrar minha experiência e postar assuntos sobre TI. https://www.fernandotechspace.com.br/
 
