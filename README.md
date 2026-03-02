@@ -4,7 +4,7 @@
 ### Automação (IaC), pipelines CI/CD, scripts, API, orquestração de contêineres, observabilidade, redução de toil operacional, otimização de custos e recursos.​
 ### Gestão de incidentes, troubleshooting, triagem de erros sistêmicos e análise de logs para (RCA) visando minimizar reincidentes e impactos na operação e negócio. 
 
-### Esse é meu site portfolio que criei para mostrar minha experiência e conhecimento. https://www.fernandotechspace.com.br/
+### Esse é meu site/ blog que criei para mostrar minha experiência e postar assuntos sobre TI. https://www.fernandotechspace.com.br/
 
 ### Sou fundador do canal @fernandotech.space.oficial, onde compartilho conhecimento e contribuo com a comunidade tech.
 
