@@ -1,4 +1,6 @@
-Analista de Infraestrutura e Suporte SRE com experiência em administração de sistemas Linux e Windows Server, em ambientes híbridos (On-Premises e Multi-Cloud: AWS e Azure). 
+
+
+Sou profissional e entusiasta de TI. Analista de Infraestrutura e Suporte SRE com experiência em administração de sistemas Linux e Windows Server, em ambientes híbridos (On-Premises e Multi-Cloud: AWS e Azure). 
 Automação (IaC), pipelines CI/CD e scripts, orquestração de contêineres, observabilidade, redução de toil operacional, otimização de custos e recursos.​
 Gestão de incidentes, troubleshooting, triagem de erros sistêmicos e análise de logs para (RCA) visando minimizar reincidentes e impactos na operação e negócio.
 
