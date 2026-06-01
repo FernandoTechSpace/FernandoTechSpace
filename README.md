@@ -2,7 +2,7 @@
  
 **DevOps/SRE Engineer · IT Infrastructure Engineer · Support Engineer L2/L3 · Solutions Engineer**
  
-Goiás, Brasil · [fernandotechspace.com.br](https://www.fernandotechspace.com.br) · [LinkedIn](https://www.linkedin.com/in/fernando-henrique-almeida-machado)
+Brasil · [fernandotechspace.com.br](https://www.fernandotechspace.com.br) · [LinkedIn](https://www.linkedin.com/in/fernando-henrique-almeida-machado)
  
 ---
  
