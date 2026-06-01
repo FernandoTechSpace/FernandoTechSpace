@@ -1,39 +1,59 @@
+# Fernando Henrique
+ 
+**DevOps/SRE Engineer · IT Infrastructure Engineer · Support Engineer L2/L3 · Solutions Engineer**
+ 
+Goiás, Brasil · [fernandotechspace.com.br](https://www.fernandotechspace.com.br) · [LinkedIn](https://www.linkedin.com/in/fernando-henrique-almeida-machado)
+ 
+---
+ 
+## Sobre
+ 
+Profissional com mais de 8 anos de experiência em infraestrutura On-Premises e Cloud (AWS e Azure), automação de operações, observabilidade e sustentação de ambientes de missão crítica.
+ 
+Atuo em implantação e suporte de soluções ManageEngine, IaC com Terraform e Ansible, pipelines CI/CD, containers (Docker/Kubernetes), monitoramento (Zabbix, Prometheus, Grafana) e resolução de incidentes com RCA.
+ 
+---
+ 
+## Stack principal
+ 
+**Cloud & Virtualização:** AWS, Azure, VMware vSphere, Hyper-V, KVM
+ 
+**Automação & IaC:** Terraform, Ansible, GitHub Actions, Git
+ 
+**Containers & Orquestração:** Docker, Kubernetes
+ 
+**Observabilidade:** Prometheus, Grafana, Zabbix, CloudWatch, Azure Monitor
+ 
+**Linguagens & Scripts:** Shell Script, Python, JavaScript, Node.js, PowerShell
+ 
+**Sistemas Operacionais:** Linux (RHEL, CentOS, AlmaLinux, Rocky, Debian, Ubuntu), Windows Server
+ 
+**Redes & Segurança:** TCP/IP, VPN, Firewalls, SSL/TLS, Active Directory, IAM, SELinux, CIS Benchmarks
+ 
+**Storage:** LVM, RAID, SAN (Fibre Channel, multipath), NAS (NFS/CIFS), iDRAC, IPMI
+ 
+**Banco de Dados:** PostgreSQL, SQL Server
+ 
+**ITSM:** ITIL v4, Incident Management, Major Incident Management, Change Management (GMUD)
+ 
+**Soluções ManageEngine:** Endpoint Central, ServiceDesk Plus, PAM360, Password Manager Pro, ADManager Plus, ADSelfService Plus, ADAudit Plus
+ 
+---
+ 
+## Áreas de atuação
+ 
+- Administração e sustentação de infraestrutura híbrida On-Premises e Cloud
+- Automação com IaC (Terraform, Ansible) e pipelines CI/CD
+- Observabilidade e monitoramento proativo
+- Incident Management, Troubleshooting L2/L3 e Root Cause Analysis (RCA)
+- Implantação e suporte de soluções ManageEngine (UEM, MDM, PAM, IAM, ITSM)
+- Integração de sistemas e automações via APIs e scripts
+---
+ 
+## Conteúdo técnico
+ 
+Publico artigos e guias técnicos sobre infraestrutura, cloud, Linux, DevOps e SRE:
+ 
+[fernandotechspace.com.br](https://www.fernandotechspace.com.br)
 
 
-### Sou profissional e entusiasta de TI.
-
-### Esse é meu site/ blog que criei para mostrar minha experiência e postar assuntos sobre TI. https://www.fernandotechspace.com.br/
-
-### Sou fundador do canal @fernandotech.space.oficial, onde compartilho conhecimento e contribuo com a comunidade tech.
-
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-henrique-almeida-machado/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fernandotech.space.oficial)
-
-
-![FernandoTechSpace GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoTechSpace&show_icons=true&theme=dark&count_private=true)
-
-### Tecnologias que uso no meu dia
-<div style="display: inline_block">
-  <img align="center" alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="center" alt='Windows' src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' />
-  <img align="center" alt="ShellScript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img align="center" alt="PowerShell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<!--  <img align="center" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> -->
-<!-- <img align="center" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> -->
-  <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img align="center" alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img align="center" alt="VMware" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
-  <img align="center" alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img align="center" alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img align="center" alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img align="center" alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
-  <img align="center" alt="Grafana" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
-
-
-  
-</div><br/>
