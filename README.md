@@ -8,9 +8,8 @@ Brasil · [fernandotechspace.com.br](https://www.fernandotechspace.com.br) · [L
  
 ## Sobre
  
-Profissional com mais de 8 anos de experiência em infraestrutura On-Premises e Cloud (AWS e Azure), automação de operações, observabilidade e sustentação de ambientes de missão crítica.
- 
-Atuo em implantação e suporte de soluções ManageEngine, IaC com Terraform e Ansible, pipelines CI/CD, containers (Docker/Kubernetes), monitoramento (Zabbix, Prometheus, Grafana) e resolução de incidentes com RCA.
+Profissional de TI com mais de 5 anos de experiência, atuo na administração e sustentação de sistemas Linux e Windows, infraestrutura e rede On-Premises e Cloud (AWS e Azure), monitoramento proativo, automação, gestão e resolução de incidentes e (RCA). Atuo também em RFI, PoC e implantação e sustentação de soluções ManageEngine e sistemas corporativos, integrações e automações via APIs e scripts, sempre alinhando tecnologia às necessidades da operação e negócio, e garantindo disponibilidade, segurança, conformidade e auditoria.
+Tenho perfil analítico, disciplinado, colaborativo, orientado à melhoria contínua e engenharia de soluções.
  
 ---
  
