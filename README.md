@@ -47,6 +47,7 @@ Tenho perfil analítico, disciplinado, colaborativo, orientado à melhoria cont�
 - Incident Management, Troubleshooting L2/L3 e Root Cause Analysis (RCA)
 - Implantação e suporte de soluções ManageEngine (UEM, MDM, PAM, IAM, ITSM)
 - Integração de sistemas e automações via APIs e scripts
+- Suporte L2/L3.
 ---
  
 ## Conteúdo técnico
