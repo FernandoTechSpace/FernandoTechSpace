@@ -1,6 +1,6 @@
 # Fernando Henrique
  
-**DevOps/SRE Engineer · IT Infrastructure Engineer · Support Engineer L2/L3 · Solutions Engineer**
+**DevOps/SRE Engineer · IT Infrastructure Engineer · Support Engineer L2/L3 · Cloud Engineer AWS & AZURE · System Engineer/ SysAdmin**
  
 Brasil · [fernandotechspace.com.br](https://www.fernandotechspace.com.br) · [LinkedIn](https://www.linkedin.com/in/fernando-henrique-almeida-machado)
  
@@ -11,16 +11,9 @@ Brasil · [fernandotechspace.com.br](https://www.fernandotechspace.com.br) · [L
 Profissional de TI com mais de 5 anos de experiência, atuo na administração e sustentação de sistemas Linux e Windows, infraestrutura e rede On-Premises e Cloud (AWS e Azure), monitoramento proativo, automação, gestão e resolução de incidentes e (RCA). Atuo também em RFI, PoC e implantação e sustentação de soluções ManageEngine e sistemas corporativos, integrações e automações via APIs e scripts, sempre alinhando tecnologia às necessidades da operação e negócio, e garantindo disponibilidade, segurança, conformidade e auditoria.
 Tenho perfil analítico, disciplinado, colaborativo, orientado à melhoria contínua e engenharia de soluções.
 
-- DevOps/SRE
-- Analista de Infraestrutura
-- Suporte N2/N3
-- Cloud Engineer AWS & AZURE
-- System Engineer/ SysAdmin
 ---
  
----
- 
-## Stack principal
+## Stacks
  
 **Cloud & Virtualização:** AWS, Azure, VMware vSphere, Hyper-V, KVM
  
