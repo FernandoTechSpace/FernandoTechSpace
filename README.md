@@ -10,6 +10,13 @@ Brasil · [fernandotechspace.com.br](https://www.fernandotechspace.com.br) · [L
  
 Profissional de TI com mais de 5 anos de experiência, atuo na administração e sustentação de sistemas Linux e Windows, infraestrutura e rede On-Premises e Cloud (AWS e Azure), monitoramento proativo, automação, gestão e resolução de incidentes e (RCA). Atuo também em RFI, PoC e implantação e sustentação de soluções ManageEngine e sistemas corporativos, integrações e automações via APIs e scripts, sempre alinhando tecnologia às necessidades da operação e negócio, e garantindo disponibilidade, segurança, conformidade e auditoria.
 Tenho perfil analítico, disciplinado, colaborativo, orientado à melhoria contínua e engenharia de soluções.
+
+- DevOps/SRE
+- Analista de Infraestrutura
+- Suporte N2/N3
+- Cloud Engineer AWS & AZURE
+- System Engineer/ SysAdmin
+---
  
 ---
  
@@ -35,24 +42,22 @@ Tenho perfil analítico, disciplinado, colaborativo, orientado à melhoria cont�
  
 **ITSM:** ITIL v4, Incident Management, Major Incident Management, Change Management (GMUD)
  
-**Soluções ManageEngine:** Endpoint Central, ServiceDesk Plus, PAM360, Password Manager Pro, ADManager Plus, ADSelfService Plus, ADAudit Plus
+**Soluções ManageEngine:** Endpoint Central, ServiceDesk Plus, PAM360, Password Manager Pro, ADManager Plus, ADSelfService Plus, ADAudit Plus.
  
 ---
  
 ## Áreas de atuação
  
-- Administração e sustentação de infraestrutura híbrida On-Premises e Cloud
-- Automação com IaC (Terraform, Ansible) e pipelines CI/CD
-- Observabilidade e monitoramento proativo
-- Incident Management, Troubleshooting L2/L3 e Root Cause Analysis (RCA)
-- Implantação e suporte de soluções ManageEngine (UEM, MDM, PAM, IAM, ITSM)
-- Integração de sistemas e automações via APIs e scripts
-- Suporte L2/L3.
+- DevOps/SRE
+- Analista de Infraestrutura
+- Suporte N2/N3
+- Cloud Engineer AWS & AZURE
+- System Engineer/ SysAdmin
 ---
  
 ## Conteúdo técnico
  
-Publico artigos e guias técnicos sobre infraestrutura, cloud, Linux, DevOps e SRE:
+Publico artigos e guias técnicos sobre infraestrutura, cloud, Linux, DevOps/SRE e TI:
  
 [fernandotechspace.com.br](https://www.fernandotechspace.com.br)
 
