@@ -1,5 +1,3 @@
-# Fernando Henrique
- 
 **Site Reliability Engineer · IT Infrastructure Engineer · Support Engineer L2/L3 · Cloud Engineer AWS & AZURE · CyberSecurity . IAM Engineer . IAM Consultant . IGA . PAM . UEM**
  
 Brasil · [fernandotechspace.com.br](https://www.fernandotechspace.com.br) · [LinkedIn](https://www.linkedin.com/in/fernando-henrique-almeida-machado)
