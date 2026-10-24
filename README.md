@@ -44,6 +44,7 @@ Publico artigos e guias técnicos sobre infraestrutura, cloud, Linux, DevOps/SRE
 
 
 
-![FernandoTechSpace GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoTechSpace&show_icons=true&theme=dark&count_private=true)
-
-![FernandoTechSpace contributions](https://ghchart.rshah.org/216e39/FernandoTechSpace)
+<div align="center">
+  <img height="180em" alt="FernandoTechSpace GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FernandoTechSpace&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" alt="FernandoTechSpace streak" src="https://streak-stats.demolab.com/?user=FernandoTechSpace&theme=dark&locale=pt_BR"/>
+</div>
