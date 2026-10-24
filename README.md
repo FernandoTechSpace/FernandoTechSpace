@@ -7,8 +7,6 @@ Brasil · [fernandotechspace.com.br](https://www.fernandotechspace.com.br) · [L
  
 ---
  
-## Sobre
- 
 ## Stacks
  
 **Cloud & Virtualização:** AWS, Azure, VMware vSphere, Hyper-V, KVM
