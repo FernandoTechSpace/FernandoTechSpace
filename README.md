@@ -39,5 +39,6 @@ Brasil · [fernandotechspace.com.br](https://www.fernandotechspace.com.br) · [L
 Publico artigos e guias técnicos sobre infraestrutura, cloud, Linux, DevOps/SRE, soluções IAM, IGA, PAM, UEM e TI:
  
 [fernandotechspace.com.br](https://www.fernandotechspace.com.br)
+[Youtube](https://www.youtube.com/@fernandotech.space.oficial)
 
 
