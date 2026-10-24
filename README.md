@@ -1,15 +1,13 @@
-**Site Reliability Engineer · IT Infrastructure Engineer · Support Engineer L2/L3 · Cloud Engineer AWS & AZURE · CyberSecurity . IAM Engineer . IAM Consultant . IGA . PAM . UEM**
+** Profissional de tecnologia da informação a mais de 5 anos e, entusiasta a mais de 10 anos.
+
+**Site Reliability Engineer · IT Infrastructure Engineer · Support Engineer L2/L3 · Cloud Engineer AWS & AZURE · CyberSecurity . IAM Engineer . IAM . PAM . UEM**
+
  
 Brasil · [fernandotechspace.com.br](https://www.fernandotechspace.com.br) · [LinkedIn](https://www.linkedin.com/in/fernando-henrique-almeida-machado)
  
 ---
  
 ## Sobre
- 
-Profissional de TI com mais de 5 anos de experiência, atuo na administração e sustentação de sistemas Linux e Windows, infraestrutura e rede On-Premises e Cloud (AWS e Azure), monitoramento proativo, automação, gestão e resolução de incidentes e (RCA). Atuo também em RFI, PoC e implantação e sustentação de soluções ManageEngine: IAM, IGA, PAM e UEM, sempre alinhando tecnologia às necessidades da operação e negócio.
-Tenho perfil analítico, colaborativo, orientado à melhoria contínua e engenharia de soluções.
-
----
  
 ## Stacks
  
@@ -36,8 +34,6 @@ Tenho perfil analítico, colaborativo, orientado à melhoria contínua e engenha
 **Soluções ManageEngine:** IAM, IGA, PAM, UEM.
 
 **IAM:** AM, IGA, PAM, SSO (SAML e OIDC), MFA, RBAC, ciclo de vida de identidades (JML), revisão de acessos, menor privilégio, Active Directory, GPO, Entra ID, ISO 27001, LGPD
-
-**Projetos:** Levantamento de requisitos, PoC, dimensionamento, cronograma, implantação, documentação e Go-Live.
 
  
 ## Conteúdo técnico
