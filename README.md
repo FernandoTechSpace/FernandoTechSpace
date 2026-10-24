@@ -45,6 +45,6 @@ Publico artigos e guias técnicos sobre infraestrutura, cloud, Linux, DevOps/SRE
 
 
 <div align="center">
-  <img height="180em" alt="FernandoTechSpace GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FernandoTechSpace&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" alt="FernandoTechSpace streak" src="https://streak-stats.demolab.com/?user=FernandoTechSpace&theme=dark&locale=pt_BR"/>
+  <img width="48%" alt="FernandoTechSpace GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FernandoTechSpace&show_icons=true&theme=dark&count_private=true"/>
+  <img width="48%" alt="FernandoTechSpace streak" src="https://streak-stats.demolab.com/?user=FernandoTechSpace&theme=dark&locale=pt_BR"/>
 </div>
