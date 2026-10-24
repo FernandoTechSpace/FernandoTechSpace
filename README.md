@@ -43,3 +43,5 @@ Publico artigos e guias técnicos sobre infraestrutura, cloud, Linux, DevOps/SRE
 [Youtube](https://www.youtube.com/@fernandotech.space.oficial)
 
 
+
+![FernandoTechSpace GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoTechSpace&show_icons=true&theme=dark&count_private=true)
