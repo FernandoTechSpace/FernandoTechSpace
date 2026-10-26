@@ -1,4 +1,4 @@
-## Profissional de tecnologia da informação a mais de 5 anos e, entusiasta a mais de 10 anos.
+## Profissional de tecnologia da informação e entusiasta.
 
 **Linux | Infraestrutura | Rede | Cloud | Automação | Observabilidade | Segurança da Informação | Cibersegurança**
 
