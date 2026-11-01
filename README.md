@@ -1,6 +1,6 @@
 ## Profissional de tecnologia da informação e entusiasta.
 
-**Linux | Infraestrutura | Rede | Cloud | Automação | Observabilidade | Segurança da Informação | Cibersegurança**
+**Linux | Infraestrutura | Rede | Cloud | Automação | Observabilidade | Cibersegurança**
 
  
 Brasil · [fernandotechspace.com.br](https://www.fernandotechspace.com.br) · [LinkedIn](https://www.linkedin.com/in/fernando-henrique-almeida-machado)
